@@ -1,0 +1,186 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+section {
+    
+    margin-bottom: 50px;
+    
+    
+}
+
+section:nth-child(3), section:nth-child(6),
+section:nth-child(8)
+ {
+    background-color:#ffe6e6;
+}
+
+
+
+.exid {
+    background-image: url("exid.png");
+    background-repeat: no-repeat;
+    background-position: center ;
+    height:150px;
+}
+
+nav {
+    background-color:black;
+    
+}
+
+nav a {
+    color:white;
+    font-size:1em;
+}
+
+.wrapper-1 iframe {
+    
+    border-radius: 20px;
+  
+  
+}
+
+
+
+
+
+
+.wrapper-2 {
+    margin:1em;
+    display: inline-flex;
+}
+
+
+.wrapper-2 img {
+    height:18em;
+    width:15em;
+    border-radius: 50px;
+
+
+}
+
+.wrapper-2 .accordion {
+    height:auto;
+    width:15em;
+    text-align: center;
+    align-items: center;
+    
+    margin-right:1em;
+    
+    
+    
+   
+}
+
+.wrapper-3 {
+    margin:1em;
+    display: inline-flex;
+}
+
+
+.wrapper-3 img {
+    height:18em;
+    width:15em;
+    border-radius: 50px;
+
+
+}
+
+.wrapper-3 .accordion {
+    height:auto;
+    width:15em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-right:1em;
+    
+    
+    
+   
+}
+
+/* .wrapper-3 img {
+    height:18em;
+    width:15em;
+    border-radius: 50px;
+
+
+}
+
+.wrapper-3 .accordion {
+    height:auto;
+    width:15em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-left:2.5em;
+    margin-top:1em;
+    
+    
+   
+} */
+
+h2 {
+    text-align: center;
+    
+
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+   
+  
+}
+
+.container h3 {
+    display: flex;
+    justify-content: center;
+}
+
+.topper {
+    position:fixed;
+    font-size: 3em;
+    bottom:0;
+    right:0;
+    margin-right:20px;
+    
+    
+}
+
+.wrapper-4 iframe {
+    border-radius: 20px;
+}
+
+.carousel-control-prev, .carousel-control-next {
+    font-size: 2em;
+}
+
+li {
+    list-style: none;
+    display:inline-block;
+    margin:1em;
+}
+
+.wrapper-5 img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.form-group row {
+    align-items: center;
+}
+
+footer {
+    text-align:center;
+}
+
+.wrapper-6 img{
+    width:10%;
+    height: 10%;
+    border-radius: 20%;
+}
+
